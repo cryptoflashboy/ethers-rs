@@ -13,7 +13,7 @@
         "ganache-cli": "^6.12",
         "html-webpack-plugin": "^5.5",
         "text-encoding": "^0.7",
-        "webpack": "^5.75",
+        "webpack": "^5.94",
         "webpack-cli": "^5.0",
         "webpack-dev-server": "^4.11"
     }
